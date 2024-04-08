@@ -6,5 +6,5 @@
 
 <b>1st Project - Pagination</b>
 
-<b>Contributor</b> <br><br>
---> Ashish Mohanty
+<b>Contributor</b> <br>
+-> Ashish Mohanty
