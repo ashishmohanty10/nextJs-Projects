@@ -6,7 +6,7 @@
 
 <b>1st Project - Pagination</b>
 
-# <b>2st Project - Responsive Navbar</b>
+<b>2st Project - Responsive Navbar</b>
 
 <b>2st Project - Responsive Navbar</b>
 
