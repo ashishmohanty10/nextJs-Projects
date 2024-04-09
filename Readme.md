@@ -5,8 +5,10 @@
 # Projects Added Are 👇
 
 <b>1st Project - Pagination</b>
+->![Preview](image-1.png)
 
 <b>2st Project - Responsive Navbar</b>
+->![Preview](image.png)
 
 <b>Contributor</b> <br>
 -> Ashish Mohanty
