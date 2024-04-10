@@ -4,11 +4,9 @@
 
 # Projects Added Are 👇
 
-<b>1st Project - Pagination</b>
-
-<b>2st Project - Responsive Navbar</b>
-
-<b>2st Project - Responsive Navbar</b>
+<b>Project 1 - Pagination</b>
+<b>Project 2 - Responsive Navbar</b>
+<b>Project 3 - Product Preview</b>
 
 <b>Contributor</b> <br>
 -> Ashish Mohanty
