@@ -16,22 +16,28 @@ const page = () => {
 
   const previewImg: ImageProp[] = [
     {
-      img: "/basketBall.svg",
+      img: "/1.png",
     },
     {
-      img: "/nikeAirmag.svg",
+      img: "/2.png",
     },
     {
-      img: "/nikeLogo1.svg",
+      img: "/3.png",
     },
     {
-      img: "/nikeLogo2.svg",
+      img: "/4.png",
+    },
+    {
+      img: "/5.png",
+    },
+    {
+      img: "/6.png",
     },
   ];
   return (
     <div className="flex justify-center items-center h-screen w-full">
       <div className=" -gray-500 rounded-md h-[500px] w-[400px] p-2">
-        <div className="flex justify-center">
+        <div className="flex justify-center rounded-md">
           <Image
             src={previewImg[currentIndex].img}
             alt="Main Img"
@@ -46,12 +52,13 @@ const page = () => {
             return (
               <div key={idx}>
                 <Image
-                  className="p-2 hover:border"
+                  className="p-2 hover:border rounded-md"
                   src={data.img}
                   alt="Preview Img"
-                  width={60}
-                  height={60}
-                  onClick={() => handleImages(idx)}
+                  width={80}
+                  height={80}
+                  onMouseEnter={() => handleImages(idx)}
+                  onMouseLeave={() => handleImages(idx)}
                 />
               </div>
             );
